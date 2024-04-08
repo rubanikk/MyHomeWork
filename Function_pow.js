@@ -7,3 +7,4 @@ function pow (num, degree) {
     console.log ("Число", num, "в ступіні", b, "=", a, )
 }
 pow (4,3)
+
