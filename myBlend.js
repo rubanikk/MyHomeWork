@@ -6,7 +6,6 @@ function myBlend(array) {
       let t = array[i]; 
       array[i] = array[j]; 
       array[j] = t;
-      //console.log(arr);
     }
   }
 
@@ -15,4 +14,3 @@ myBlend(arr);
 console.log(arr);
 
 
-//let t = array[i]; array[i] = array[j]; array[j] = t
