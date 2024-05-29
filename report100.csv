@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1717006942319,487,Отриати всіх героїв ,200,OK,Endurance Test 1-49,text,true,,581,129,100,100,http://localhost:3001/characters,458,0,356
+1717006942314,490,Отриати всіх героїв ,200,OK,Endurance Test 1-20,text,true,,581,129,100,100,http://localhost:3001/characters,472,0,361
+1717006942320,485,Отриати всіх героїв ,200,OK,Endurance Test 1-17,text,true,,581,129,100,100,http://localhost:3001/characters,464,0,356
+1717006942311,494,Отриати всіх героїв ,200,OK,Endurance Test 1-81,text,true,,581,129,100,100,http://localhost:3001/characters,475,0,360
+1717006942307,498,Отриати всіх героїв ,200,OK,Endurance Test 1-8,text,true,,581,129,100,100,http://localhost:3001/characters,474,0,363
+1717006942322,482,Отриати всіх героїв ,200,OK,Endurance Test 1-57,text,true,,581,129,100,100,http://localhost:3001/characters,463,0,350
+1717006942322,483,Отриати всіх героїв ,200,OK,Endurance Test 1-76,text,true,,581,129,100,100,http://localhost:3001/characters,462,0,352
+1717006942312,492,Отриати всіх героїв ,200,OK,Endurance Test 1-6,text,true,,581,129,100,100,http://localhost:3001/characters,472,0,358
+1717006942304,499,Отриати всіх героїв ,200,OK,Endurance Test 1-1,text,true,,581,129,100,100,http://localhost:3001/characters,480,0,371
+1717006942322,483,Отриати всіх героїв ,200,OK,Endurance Test 1-64,text,true,,581,129,100,100,http://localhost:3001/characters,461,0,350
+1717006942344,461,Отриати всіх героїв ,200,OK,Endurance Test 1-95,text,true,,581,129,100,100,http://localhost:3001/characters,434,0,332
+1717006942310,496,Отриати всіх героїв ,200,OK,Endurance Test 1-38,text,true,,581,129,100,100,http://localhost:3001/characters,471,0,360
+1717006942347,459,Отриати всіх героїв ,200,OK,Endurance Test 1-94,text,true,,581,129,100,100,http://localhost:3001/characters,430,0,326
+1717006942322,484,Отриати всіх героїв ,200,OK,Endurance Test 1-70,text,true,,581,129,100,100,http://localhost:3001/characters,459,0,351
+1717006942312,492,Отриати всіх героїв ,200,OK,Endurance Test 1-21,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,360
+1717006942318,487,Отриати всіх героїв ,200,OK,Endurance Test 1-23,text,true,,581,129,100,100,http://localhost:3001/characters,465,0,353
+1717006942302,503,Отриати всіх героїв ,200,OK,Endurance Test 1-5,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,369
+1717006942347,457,Отриати всіх героїв ,200,OK,Endurance Test 1-96,text,true,,581,129,100,100,http://localhost:3001/characters,439,0,325
+1717006942305,501,Отриати всіх героїв ,200,OK,Endurance Test 1-32,text,true,,581,129,100,100,http://localhost:3001/characters,471,0,369
+1717006942309,495,Отриати всіх героїв ,200,OK,Endurance Test 1-2,text,true,,581,129,100,100,http://localhost:3001/characters,475,0,364
+1717006942322,483,Отриати всіх героїв ,200,OK,Endurance Test 1-52,text,true,,581,129,100,100,http://localhost:3001/characters,462,0,353
+1717006942317,487,Отриати всіх героїв ,200,OK,Endurance Test 1-69,text,true,,581,129,100,100,http://localhost:3001/characters,469,0,355
+1717006942311,495,Отриати всіх героїв ,200,OK,Endurance Test 1-36,text,true,,581,129,100,100,http://localhost:3001/characters,468,0,364
+1717006942321,483,Отриати всіх героїв ,200,OK,Endurance Test 1-18,text,true,,581,129,100,100,http://localhost:3001/characters,456,0,349
+1717006942344,462,Отриати всіх героїв ,200,OK,Endurance Test 1-99,text,true,,581,129,100,100,http://localhost:3001/characters,437,0,331
+1717006942322,484,Отриати всіх героїв ,200,OK,Endurance Test 1-67,text,true,,581,129,100,100,http://localhost:3001/characters,454,0,349
+1717006942321,485,Отриати всіх героїв ,200,OK,Endurance Test 1-89,text,true,,581,129,100,100,http://localhost:3001/characters,460,0,354
+1717006942303,502,Отриати всіх героїв ,200,OK,Endurance Test 1-44,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,369
+1717006942303,503,Отриати всіх героїв ,200,OK,Endurance Test 1-63,text,true,,581,129,100,100,http://localhost:3001/characters,477,0,370
+1717006942315,490,Отриати всіх героїв ,200,OK,Endurance Test 1-30,text,true,,581,129,100,100,http://localhost:3001/characters,461,0,359
+1717006942311,494,Отриати всіх героїв ,200,OK,Endurance Test 1-62,text,true,,581,129,100,100,http://localhost:3001/characters,472,0,362
+1717006942320,486,Отриати всіх героїв ,200,OK,Endurance Test 1-22,text,true,,581,129,100,100,http://localhost:3001/characters,456,0,354
+1717006942310,495,Отриати всіх героїв ,200,OK,Endurance Test 1-25,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,361
+1717006942312,493,Отриати всіх героїв ,200,OK,Endurance Test 1-60,text,true,,581,129,100,100,http://localhost:3001/characters,472,0,360
+1717006942309,495,Отриати всіх героїв ,200,OK,Endurance Test 1-12,text,true,,581,129,100,100,http://localhost:3001/characters,472,0,364
+1717006942308,498,Отриати всіх героїв ,200,OK,Endurance Test 1-45,text,true,,581,129,100,100,http://localhost:3001/characters,474,0,366
+1717006942314,491,Отриати всіх героїв ,200,OK,Endurance Test 1-59,text,true,,581,129,100,100,http://localhost:3001/characters,470,0,360
+1717006942319,486,Отриати всіх героїв ,200,OK,Endurance Test 1-19,text,true,,581,129,100,100,http://localhost:3001/characters,466,0,354
+1717006942312,492,Отриати всіх героїв ,200,OK,Endurance Test 1-37,text,true,,581,129,100,100,http://localhost:3001/characters,474,0,363
+1717006942319,485,Отриати всіх героїв ,200,OK,Endurance Test 1-14,text,true,,581,129,100,100,http://localhost:3001/characters,463,0,355
+1717006942312,494,Отриати всіх героїв ,200,OK,Endurance Test 1-58,text,true,,581,129,100,100,http://localhost:3001/characters,467,0,357
+1717006942312,492,Отриати всіх героїв ,200,OK,Endurance Test 1-13,text,true,,581,129,100,100,http://localhost:3001/characters,463,0,359
+1717006942321,483,Отриати всіх героїв ,200,OK,Endurance Test 1-82,text,true,,581,129,100,100,http://localhost:3001/characters,465,0,348
+1717006942304,502,Отриати всіх героїв ,200,OK,Endurance Test 1-27,text,true,,581,129,100,100,http://localhost:3001/characters,478,0,368
+1717006942313,491,Отриати всіх героїв ,200,OK,Endurance Test 1-3,text,true,,581,129,100,100,http://localhost:3001/characters,470,0,356
+1717006942303,502,Отриати всіх героїв ,200,OK,Endurance Test 1-34,text,true,,581,129,100,100,http://localhost:3001/characters,479,0,373
+1717006942316,489,Отриати всіх героїв ,200,OK,Endurance Test 1-40,text,true,,581,129,100,100,http://localhost:3001/characters,469,0,354
+1717006942307,498,Отриати всіх героїв ,200,OK,Endurance Test 1-16,text,true,,581,129,100,100,http://localhost:3001/characters,468,0,361
+1717006942304,502,Отриати всіх героїв ,200,OK,Endurance Test 1-43,text,true,,581,129,100,100,http://localhost:3001/characters,477,0,370
+1717006942310,496,Отриати всіх героїв ,200,OK,Endurance Test 1-79,text,true,,581,129,100,100,http://localhost:3001/characters,468,0,362
+1717006942313,493,Отриати всіх героїв ,200,OK,Endurance Test 1-84,text,true,,581,129,100,100,http://localhost:3001/characters,464,0,362
+1717006942321,484,Отриати всіх героїв ,200,OK,Endurance Test 1-31,text,true,,581,129,100,100,http://localhost:3001/characters,463,0,355
+1717006942303,501,Отриати всіх героїв ,200,OK,Endurance Test 1-7,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,369
+1717006942306,498,Отриати всіх героїв ,200,OK,Endurance Test 1-15,text,true,,581,129,100,100,http://localhost:3001/characters,471,0,363
+1717006942309,496,Отриати всіх героїв ,200,OK,Endurance Test 1-42,text,true,,581,129,100,100,http://localhost:3001/characters,475,0,362
+1717006942309,495,Отриати всіх героїв ,200,OK,Endurance Test 1-33,text,true,,581,129,100,100,http://localhost:3001/characters,476,0,363
+1717006942309,496,Отриати всіх героїв ,200,OK,Endurance Test 1-24,text,true,,581,129,100,100,http://localhost:3001/characters,475,0,367
+1717006942303,503,Отриати всіх героїв ,200,OK,Endurance Test 1-66,text,true,,581,129,100,100,http://localhost:3001/characters,474,0,366
+1717006942309,497,Отриати всіх героїв ,200,OK,Endurance Test 1-51,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,363
+1717006942304,501,Отриати всіх героїв ,200,OK,Endurance Test 1-75,text,true,,581,129,100,100,http://localhost:3001/characters,480,0,370
+1717006942311,494,Отриати всіх героїв ,200,OK,Endurance Test 1-4,text,true,,581,129,100,100,http://localhost:3001/characters,469,0,361
+1717006942309,497,Отриати всіх героїв ,200,OK,Endurance Test 1-55,text,true,,581,129,100,100,http://localhost:3001/characters,470,0,366
+1717006942312,493,Отриати всіх героїв ,200,OK,Endurance Test 1-86,text,true,,581,129,100,100,http://localhost:3001/characters,472,0,364
+1717006942310,495,Отриати всіх героїв ,200,OK,Endurance Test 1-50,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,365
+1717006942304,501,Отриати всіх героїв ,200,OK,Endurance Test 1-83,text,true,,581,129,100,100,http://localhost:3001/characters,475,0,371
+1717006942311,494,Отриати всіх героїв ,200,OK,Endurance Test 1-91,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,360
+1717006942308,497,Отриати всіх героїв ,200,OK,Endurance Test 1-65,text,true,,581,129,100,100,http://localhost:3001/characters,476,0,364
+1717006942310,495,Отриати всіх героїв ,200,OK,Endurance Test 1-48,text,true,,581,129,100,100,http://localhost:3001/characters,475,0,360
+1717006942311,495,Отриати всіх героїв ,200,OK,Endurance Test 1-47,text,true,,581,129,100,100,http://localhost:3001/characters,466,0,359
+1717006942310,494,Отриати всіх героїв ,200,OK,Endurance Test 1-11,text,true,,581,129,100,100,http://localhost:3001/characters,467,0,362
+1717006942313,492,Отриати всіх героїв ,200,OK,Endurance Test 1-93,text,true,,581,129,100,100,http://localhost:3001/characters,472,0,363
+1717006942312,493,Отриати всіх героїв ,200,OK,Endurance Test 1-10,text,true,,581,129,100,100,http://localhost:3001/characters,466,0,361
+1717006942312,493,Отриати всіх героїв ,200,OK,Endurance Test 1-54,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,363
+1717006942320,485,Отриати всіх героїв ,200,OK,Endurance Test 1-29,text,true,,581,129,100,100,http://localhost:3001/characters,456,0,354
+1717006942303,502,Отриати всіх героїв ,200,OK,Endurance Test 1-73,text,true,,581,129,100,100,http://localhost:3001/characters,475,0,369
+1717006942310,495,Отриати всіх героїв ,200,OK,Endurance Test 1-46,text,true,,581,129,100,100,http://localhost:3001/characters,473,0,361
+1717006942319,486,Отриати всіх героїв ,200,OK,Endurance Test 1-41,text,true,,581,129,100,100,http://localhost:3001/characters,463,0,350
+1717006942317,489,Отриати всіх героїв ,200,OK,Endurance Test 1-68,text,true,,581,129,100,100,http://localhost:3001/characters,463,0,353
+1717006942311,494,Отриати всіх героїв ,200,OK,Endurance Test 1-80,text,true,,581,129,100,100,http://localhost:3001/characters,472,0,364
+1717006942322,483,Отриати всіх героїв ,200,OK,Endurance Test 1-85,text,true,,581,129,100,100,http://localhost:3001/characters,454,0,352
+1717006942313,492,Отриати всіх героїв ,200,OK,Endurance Test 1-26,text,true,,581,129,100,100,http://localhost:3001/characters,472,0,363
+1717006942312,493,Отриати всіх героїв ,200,OK,Endurance Test 1-72,text,true,,581,129,100,100,http://localhost:3001/characters,470,0,363
+1717006942309,495,Отриати всіх героїв ,200,OK,Endurance Test 1-9,text,true,,581,129,100,100,http://localhost:3001/characters,474,0,366
+1717006942309,496,Отриати всіх героїв ,200,OK,Endurance Test 1-28,text,true,,581,129,100,100,http://localhost:3001/characters,474,0,361
+1717006942321,484,Отриати всіх героїв ,200,OK,Endurance Test 1-90,text,true,,581,129,100,100,http://localhost:3001/characters,457,0,349
+1717006942308,497,Отриати всіх героїв ,200,OK,Endurance Test 1-77,text,true,,581,129,100,100,http://localhost:3001/characters,474,0,366
+1717006942308,497,Отриати всіх героїв ,200,OK,Endurance Test 1-88,text,true,,581,129,100,100,http://localhost:3001/characters,468,0,366
+1717006942319,487,Отриати всіх героїв ,200,OK,Endurance Test 1-35,text,true,,581,129,100,100,http://localhost:3001/characters,459,0,357
+1717006942341,464,Отриати всіх героїв ,200,OK,Endurance Test 1-97,text,true,,581,129,100,100,http://localhost:3001/characters,443,0,332
+1717006942319,487,Отриати всіх героїв ,200,OK,Endurance Test 1-53,text,true,,581,129,100,100,http://localhost:3001/characters,461,0,355
+1717006942320,485,Отриати всіх героїв ,200,OK,Endurance Test 1-61,text,true,,581,129,100,100,http://localhost:3001/characters,465,0,351
+1717006942320,484,Отриати всіх героїв ,200,OK,Endurance Test 1-87,text,true,,581,129,100,100,http://localhost:3001/characters,465,0,350
+1717006942322,483,Отриати всіх героїв ,200,OK,Endurance Test 1-74,text,true,,581,129,100,100,http://localhost:3001/characters,461,0,351
+1717006942347,458,Отриати всіх героїв ,200,OK,Endurance Test 1-100,text,true,,581,129,100,100,http://localhost:3001/characters,436,0,323
+1717006942313,492,Отриати всіх героїв ,200,OK,Endurance Test 1-39,text,true,,581,129,100,100,http://localhost:3001/characters,470,0,362
+1717006942344,461,Отриати всіх героїв ,200,OK,Endurance Test 1-98,text,true,,581,129,100,100,http://localhost:3001/characters,438,0,325
+1717006942314,491,Отриати всіх героїв ,200,OK,Endurance Test 1-56,text,true,,581,129,100,100,http://localhost:3001/characters,469,0,356
+1717006942315,491,Отриати всіх героїв ,200,OK,Endurance Test 1-71,text,true,,581,129,100,100,http://localhost:3001/characters,461,0,354
+1717006942303,502,Отриати всіх героїв ,200,OK,Endurance Test 1-78,text,true,,581,129,100,100,http://localhost:3001/characters,482,0,368
+1717006942312,493,Отриати всіх героїв ,200,OK,Endurance Test 1-92,text,true,,581,129,100,100,http://localhost:3001/characters,471,0,362
+1717006943032,418,Отримати героя за id ,200,OK,Endurance Test 1-47,text,true,,266,130,100,100,http://localhost:3001/character/2,418,0,0
+1717006943016,421,Отримати героя за id ,200,OK,Endurance Test 1-34,text,true,,266,130,100,100,http://localhost:3001/character/2,420,0,0
+1717006943025,415,Отримати героя за id ,200,OK,Endurance Test 1-7,text,true,,266,130,100,100,http://localhost:3001/character/2,415,0,0
+1717006943024,451,Отримати героя за id ,200,OK,Endurance Test 1-28,text,true,,266,130,100,100,http://localhost:3001/character/2,429,0,0
+1717006943027,452,Отримати героя за id ,200,OK,Endurance Test 1-85,text,true,,266,130,100,100,http://localhost:3001/character/2,424,0,0
+1717006943034,445,Отримати героя за id ,200,OK,Endurance Test 1-39,text,true,,266,130,100,100,http://localhost:3001/character/2,419,0,0
+1717006943021,454,Отримати героя за id ,200,OK,Endurance Test 1-60,text,true,,266,130,100,100,http://localhost:3001/character/2,432,0,0
+1717006943020,452,Отримати героя за id ,200,OK,Endurance Test 1-50,text,true,,266,130,100,100,http://localhost:3001/character/2,433,0,0
+1717006943032,406,Отримати героя за id ,200,OK,Endurance Test 1-48,text,true,,266,130,100,100,http://localhost:3001/character/2,406,0,0
+1717006943017,453,Отримати героя за id ,200,OK,Endurance Test 1-81,text,true,,266,130,100,100,http://localhost:3001/character/2,436,0,0
+1717006943016,456,Отримати героя за id ,200,OK,Endurance Test 1-30,text,true,,266,130,100,100,http://localhost:3001/character/2,438,0,0
+1717006943035,411,Отримати героя за id ,200,OK,Endurance Test 1-17,text,true,,266,130,100,100,http://localhost:3001/character/2,411,0,0
+1717006943030,441,Отримати героя за id ,200,OK,Endurance Test 1-22,text,true,,266,130,100,100,http://localhost:3001/character/2,423,0,0
+1717006943124,347,Отримати героя за id ,200,OK,Endurance Test 1-38,text,true,,266,130,100,100,http://localhost:3001/character/2,323,0,0
+1717006943119,354,Отримати героя за id ,200,OK,Endurance Test 1-2,text,true,,266,130,100,100,http://localhost:3001/character/2,334,0,0
+1717006943034,415,Отримати героя за id ,200,OK,Endurance Test 1-78,text,true,,266,130,100,100,http://localhost:3001/character/2,415,0,0
+1717006943033,439,Отримати героя за id ,200,OK,Endurance Test 1-77,text,true,,266,130,100,100,http://localhost:3001/character/2,420,0,0
+1717006943024,413,Отримати героя за id ,200,OK,Endurance Test 1-68,text,true,,266,130,100,100,http://localhost:3001/character/2,412,0,0
+1717006943128,315,Отримати героя за id ,200,OK,Endurance Test 1-93,text,true,,266,130,100,100,http://localhost:3001/character/2,315,0,0
+1717006943027,444,Отримати героя за id ,200,OK,Endurance Test 1-18,text,true,,266,130,100,100,http://localhost:3001/character/2,426,0,0
+1717006943017,425,Отримати героя за id ,200,OK,Endurance Test 1-90,text,true,,266,130,100,100,http://localhost:3001/character/2,425,0,0
+1717006943030,412,Отримати героя за id ,200,OK,Endurance Test 1-76,text,true,,266,130,100,100,http://localhost:3001/character/2,412,0,0
+1717006943022,421,Отримати героя за id ,200,OK,Endurance Test 1-54,text,true,,266,130,100,100,http://localhost:3001/character/2,421,0,0
+1717006943017,454,Отримати героя за id ,200,OK,Endurance Test 1-66,text,true,,266,130,100,100,http://localhost:3001/character/2,436,0,0
+1717006943124,323,Отримати героя за id ,200,OK,Endurance Test 1-58,text,true,,266,130,100,100,http://localhost:3001/character/2,323,0,0
+1717006943029,413,Отримати героя за id ,200,OK,Endurance Test 1-98,text,true,,266,130,100,100,http://localhost:3001/character/2,413,0,0
+1717006943025,446,Отримати героя за id ,200,OK,Endurance Test 1-56,text,true,,266,130,100,100,http://localhost:3001/character/2,418,0,0
+1717006943027,444,Отримати героя за id ,200,OK,Endurance Test 1-92,text,true,,266,130,100,100,http://localhost:3001/character/2,417,0,0
+1717006943025,420,Отримати героя за id ,200,OK,Endurance Test 1-99,text,true,,266,130,100,100,http://localhost:3001/character/2,420,0,0
+1717006943028,412,Отримати героя за id ,200,OK,Endurance Test 1-46,text,true,,266,130,100,100,http://localhost:3001/character/2,412,0,0
+1717006943030,410,Отримати героя за id ,200,OK,Endurance Test 1-49,text,true,,266,130,100,100,http://localhost:3001/character/2,410,0,0
+1717006943028,419,Отримати героя за id ,200,OK,Endurance Test 1-45,text,true,,266,130,100,100,http://localhost:3001/character/2,419,0,0
+1717006943025,424,Отримати героя за id ,200,OK,Endurance Test 1-12,text,true,,266,130,100,100,http://localhost:3001/character/2,424,0,0
+1717006943016,430,Отримати героя за id ,200,OK,Endurance Test 1-95,text,true,,266,130,100,100,http://localhost:3001/character/2,430,0,0
+1717006943022,449,Отримати героя за id ,200,OK,Endurance Test 1-51,text,true,,266,130,100,100,http://localhost:3001/character/2,422,0,0
+1717006943032,411,Отримати героя за id ,200,OK,Endurance Test 1-14,text,true,,266,130,100,100,http://localhost:3001/character/2,411,0,0
+1717006943017,431,Отримати героя за id ,200,OK,Endurance Test 1-11,text,true,,266,130,100,100,http://localhost:3001/character/2,431,0,0
+1717006943031,410,Отримати героя за id ,200,OK,Endurance Test 1-5,text,true,,266,130,100,100,http://localhost:3001/character/2,409,0,0
+1717006943214,358,Отримати героя за id ,200,OK,Endurance Test 1-89,text,true,,266,130,100,100,http://localhost:3001/character/2,334,0,0
+1717006943022,593,Отримати героя за id ,200,OK,Endurance Test 1-33,text,true,,266,130,100,100,http://localhost:3001/character/2,593,0,0
+1717006943033,533,Отримати героя за id ,200,OK,Endurance Test 1-64,text,true,,266,130,100,100,http://localhost:3001/character/2,507,0,0
+1717006943028,553,Отримати героя за id ,200,OK,Endurance Test 1-25,text,true,,266,130,100,100,http://localhost:3001/character/2,523,0,0
+1717006943025,543,Отримати героя за id ,200,OK,Endurance Test 1-82,text,true,,266,130,100,100,http://localhost:3001/character/2,525,0,0
+1717006943028,538,Отримати героя за id ,200,OK,Endurance Test 1-37,text,true,,266,130,100,100,http://localhost:3001/character/2,522,0,0
+1717006943024,553,Отримати героя за id ,200,OK,Endurance Test 1-21,text,true,,266,130,100,100,http://localhost:3001/character/2,522,0,0
+1717006943135,435,Отримати героя за id ,200,OK,Endurance Test 1-84,text,true,,266,130,100,100,http://localhost:3001/character/2,403,0,0
+1717006943026,551,Отримати героя за id ,200,OK,Endurance Test 1-36,text,true,,266,130,100,100,http://localhost:3001/character/2,509,0,0
+1717006943124,445,Отримати героя за id ,200,OK,Endurance Test 1-31,text,true,,266,130,100,100,http://localhost:3001/character/2,411,0,0
+1717006943025,553,Отримати героя за id ,200,OK,Endurance Test 1-53,text,true,,266,130,100,100,http://localhost:3001/character/2,525,0,0
+1717006943016,550,Отримати героя за id ,200,OK,Endurance Test 1-26,text,true,,266,130,100,100,http://localhost:3001/character/2,529,0,0
+1717006943034,546,Отримати героя за id ,200,OK,Endurance Test 1-67,text,true,,266,130,100,100,http://localhost:3001/character/2,515,0,0
+1717006943029,552,Отримати героя за id ,200,OK,Endurance Test 1-8,text,true,,266,130,100,100,http://localhost:3001/character/2,522,0,0
+1717006943016,565,Отримати героя за id ,200,OK,Endurance Test 1-42,text,true,,266,130,100,100,http://localhost:3001/character/2,531,0,0
+1717006943033,537,Отримати героя за id ,200,OK,Endurance Test 1-3,text,true,,266,130,100,100,http://localhost:3001/character/2,505,0,0
+1717006943214,354,Отримати героя за id ,200,OK,Endurance Test 1-74,text,true,,266,130,100,100,http://localhost:3001/character/2,333,0,0
+1717006943028,540,Отримати героя за id ,200,OK,Endurance Test 1-70,text,true,,266,130,100,100,http://localhost:3001/character/2,519,0,0
+1717006943130,451,Отримати героя за id ,200,OK,Endurance Test 1-91,text,true,,266,130,100,100,http://localhost:3001/character/2,420,0,0
+1717006943214,362,Отримати героя за id ,200,OK,Endurance Test 1-27,text,true,,266,130,100,100,http://localhost:3001/character/2,324,0,0
+1717006943127,315,Отримати героя за id ,200,OK,Endurance Test 1-16,text,true,,266,130,100,100,http://localhost:3001/character/2,315,0,0
+1717006943035,531,Отримати героя за id ,200,OK,Endurance Test 1-1,text,true,,266,130,100,100,http://localhost:3001/character/2,506,0,0
+1717006943202,364,Отримати героя за id ,200,OK,Endurance Test 1-75,text,true,,266,130,100,100,http://localhost:3001/character/2,334,0,0
+1717006943021,558,Отримати героя за id ,200,OK,Endurance Test 1-88,text,true,,266,130,100,100,http://localhost:3001/character/2,514,0,0
+1717006943026,541,Отримати героя за id ,200,OK,Endurance Test 1-83,text,true,,266,130,100,100,http://localhost:3001/character/2,520,0,0
+1717006943021,560,Отримати героя за id ,200,OK,Endurance Test 1-65,text,true,,266,130,100,100,http://localhost:3001/character/2,530,0,0
+1717006943120,445,Отримати героя за id ,200,OK,Endurance Test 1-79,text,true,,266,130,100,100,http://localhost:3001/character/2,424,0,0
+1717006943029,541,Отримати героя за id ,200,OK,Endurance Test 1-55,text,true,,266,130,100,100,http://localhost:3001/character/2,514,0,0
+1717006943028,542,Отримати героя за id ,200,OK,Endurance Test 1-80,text,true,,266,130,100,100,http://localhost:3001/character/2,509,0,0
+1717006943124,485,Отримати героя за id ,200,OK,Endurance Test 1-61,text,true,,266,130,100,100,http://localhost:3001/character/2,485,0,0
+1717006943016,593,Отримати героя за id ,200,OK,Endurance Test 1-44,text,true,,266,130,100,100,http://localhost:3001/character/2,593,0,0
+1717006943033,537,Отримати героя за id ,200,OK,Endurance Test 1-35,text,true,,266,130,100,100,http://localhost:3001/character/2,519,0,0
+1717006943023,546,Отримати героя за id ,200,OK,Endurance Test 1-62,text,true,,266,130,100,100,http://localhost:3001/character/2,524,0,0
+1717006943124,443,Отримати героя за id ,200,OK,Endurance Test 1-94,text,true,,266,130,100,100,http://localhost:3001/character/2,420,0,0
+1717006943025,572,Отримати героя за id ,200,OK,Endurance Test 1-41,text,true,,266,130,100,100,http://localhost:3001/character/2,513,0,0
+1717006943020,555,Отримати героя за id ,200,OK,Endurance Test 1-15,text,true,,266,130,100,100,http://localhost:3001/character/2,530,0,0
+1717006943034,544,Отримати героя за id ,200,OK,Endurance Test 1-57,text,true,,266,130,100,100,http://localhost:3001/character/2,512,0,0
+1717006943020,548,Отримати героя за id ,200,OK,Endurance Test 1-63,text,true,,266,130,100,100,http://localhost:3001/character/2,527,0,0
+1717006943017,561,Отримати героя за id ,200,OK,Endurance Test 1-43,text,true,,266,130,100,100,http://localhost:3001/character/2,535,0,0
+1717006943125,445,Отримати героя за id ,200,OK,Endurance Test 1-71,text,true,,266,130,100,100,http://localhost:3001/character/2,425,0,0
+1717006943026,552,Отримати героя за id ,200,OK,Endurance Test 1-24,text,true,,266,130,100,100,http://localhost:3001/character/2,510,0,0
+1717006943017,561,Отримати героя за id ,200,OK,Endurance Test 1-9,text,true,,266,130,100,100,http://localhost:3001/character/2,522,0,0
+1717006943027,543,Отримати героя за id ,200,OK,Endurance Test 1-59,text,true,,266,130,100,100,http://localhost:3001/character/2,511,0,0
+1717006943024,547,Отримати героя за id ,200,OK,Endurance Test 1-52,text,true,,266,130,100,100,http://localhost:3001/character/2,513,0,0
+1717006943030,540,Отримати героя за id ,200,OK,Endurance Test 1-97,text,true,,266,130,100,100,http://localhost:3001/character/2,508,0,0
+1717006943037,538,Отримати героя за id ,200,OK,Endurance Test 1-32,text,true,,266,130,100,100,http://localhost:3001/character/2,497,0,0
+1717006943127,454,Отримати героя за id ,200,OK,Endurance Test 1-40,text,true,,266,130,100,100,http://localhost:3001/character/2,424,0,0
+1717006943023,553,Отримати героя за id ,200,OK,Endurance Test 1-72,text,true,,266,130,100,100,http://localhost:3001/character/2,512,0,0
+1717006943024,547,Отримати героя за id ,200,OK,Endurance Test 1-6,text,true,,266,130,100,100,http://localhost:3001/character/2,526,0,0
+1717006943015,582,Отримати героя за id ,200,OK,Endurance Test 1-96,text,true,,266,130,100,100,http://localhost:3001/character/2,521,0,0
+1717006943021,550,Отримати героя за id ,200,OK,Endurance Test 1-10,text,true,,266,130,100,100,http://localhost:3001/character/2,527,0,0
+1717006943130,441,Отримати героя за id ,200,OK,Endurance Test 1-86,text,true,,266,130,100,100,http://localhost:3001/character/2,406,0,0
+1717006943025,546,Отримати героя за id ,200,OK,Endurance Test 1-19,text,true,,266,130,100,100,http://localhost:3001/character/2,521,0,0
+1717006943118,453,Отримати героя за id ,200,OK,Endurance Test 1-100,text,true,,266,130,100,100,http://localhost:3001/character/2,419,0,0
+1717006943028,543,Отримати героя за id ,200,OK,Endurance Test 1-87,text,true,,266,130,100,100,http://localhost:3001/character/2,521,0,0
+1717006943030,541,Отримати героя за id ,200,OK,Endurance Test 1-4,text,true,,266,130,100,100,http://localhost:3001/character/2,505,0,0
+1717006943022,549,Отримати героя за id ,200,OK,Endurance Test 1-20,text,true,,266,130,100,100,http://localhost:3001/character/2,516,0,0
+1717006943016,555,Отримати героя за id ,200,OK,Endurance Test 1-23,text,true,,266,130,100,100,http://localhost:3001/character/2,530,0,0
+1717006943032,535,Отримати героя за id ,200,OK,Endurance Test 1-29,text,true,,266,130,100,100,http://localhost:3001/character/2,514,0,0
+1717006943036,579,Отримати героя за id ,200,OK,Endurance Test 1-73,text,true,,266,130,100,100,http://localhost:3001/character/2,579,0,0
+1717006943021,558,Отримати героя за id ,200,OK,Endurance Test 1-69,text,true,,266,130,100,100,http://localhost:3001/character/2,525,0,0
+1717006943127,442,Отримати героя за id ,200,OK,Endurance Test 1-13,text,true,,266,130,100,100,http://localhost:3001/character/2,412,0,0
+1717006943505,181,Створити героя ,200,OK,Endurance Test 1-85,text,true,,263,236,100,100,http://localhost:3001/character,181,0,0
+1717006943543,144,Створити героя ,200,OK,Endurance Test 1-81,text,true,,263,236,100,100,http://localhost:3001/character,144,0,0
+1717006943541,147,Створити героя ,200,OK,Endurance Test 1-18,text,true,,263,236,100,100,http://localhost:3001/character,147,0,0
+1717006943542,144,Створити героя ,200,OK,Endurance Test 1-92,text,true,,263,236,100,100,http://localhost:3001/character,144,0,0
+1717006943543,144,Створити героя ,200,OK,Endurance Test 1-2,text,true,,263,236,100,100,http://localhost:3001/character,144,0,0
+1717006943543,143,Створити героя ,200,OK,Endurance Test 1-98,text,true,,263,236,100,100,http://localhost:3001/character,143,0,0
+1717006943544,142,Створити героя ,200,OK,Endurance Test 1-78,text,true,,263,236,100,100,http://localhost:3001/character,142,0,0
+1717006943506,180,Створити героя ,200,OK,Endurance Test 1-28,text,true,,263,236,100,100,http://localhost:3001/character,180,0,0
+1717006943539,148,Створити героя ,200,OK,Endurance Test 1-34,text,true,,263,236,100,100,http://localhost:3001/character,148,0,0
+1717006943544,143,Створити героя ,200,OK,Endurance Test 1-50,text,true,,263,236,100,100,http://localhost:3001/character,143,0,0
+1717006943541,145,Створити героя ,200,OK,Endurance Test 1-99,text,true,,263,236,100,100,http://localhost:3001/character,145,0,0
+1717006943541,147,Створити героя ,200,OK,Endurance Test 1-90,text,true,,263,236,100,100,http://localhost:3001/character,147,0,0
+1717006943544,143,Створити героя ,200,OK,Endurance Test 1-77,text,true,,263,236,100,100,http://localhost:3001/character,143,0,0
+1717006943541,145,Створити героя ,200,OK,Endurance Test 1-54,text,true,,263,236,100,100,http://localhost:3001/character,145,0,0
+1717006943505,183,Створити героя ,200,OK,Endurance Test 1-47,text,true,,263,236,100,100,http://localhost:3001/character,183,0,0
+1717006943543,143,Створити героя ,200,OK,Endurance Test 1-22,text,true,,263,236,100,100,http://localhost:3001/character,143,0,0
+1717006943543,214,Створити героя ,200,OK,Endurance Test 1-30,text,true,,263,236,100,100,http://localhost:3001/character,214,0,0
+1717006943542,214,Створити героя ,200,OK,Endurance Test 1-46,text,true,,263,236,100,100,http://localhost:3001/character,214,0,0
+1717006943542,209,Створити героя ,200,OK,Endurance Test 1-49,text,true,,263,236,100,100,http://localhost:3001/character,207,0,0
+1717006943543,207,Створити героя ,200,OK,Endurance Test 1-38,text,true,,263,236,100,100,http://localhost:3001/character,207,0,0
+1717006943542,208,Створити героя ,200,OK,Endurance Test 1-95,text,true,,263,236,100,100,http://localhost:3001/character,208,0,0
+1717006943505,309,Створити героя ,200,OK,Endurance Test 1-39,text,true,,263,236,100,100,http://localhost:3001/character,309,0,0
+1717006943542,276,Створити героя ,200,OK,Endurance Test 1-51,text,true,,263,236,100,100,http://localhost:3001/character,276,0,0
+1717006943541,277,Створити героя ,200,OK,Endurance Test 1-93,text,true,,263,236,100,100,http://localhost:3001/character,277,0,0
+1717006943545,274,Створити героя ,200,OK,Endurance Test 1-56,text,true,,263,236,100,100,http://localhost:3001/character,274,0,0
+1717006943543,278,Створити героя ,200,OK,Endurance Test 1-17,text,true,,263,236,100,100,http://localhost:3001/character,278,0,0
+1717006943542,282,Створити героя ,200,OK,Endurance Test 1-58,text,true,,263,236,100,100,http://localhost:3001/character,282,0,0
+1717006943542,284,Створити героя ,200,OK,Endurance Test 1-76,text,true,,263,236,100,100,http://localhost:3001/character,284,0,0
+1717006943544,284,Створити героя ,200,OK,Endurance Test 1-14,text,true,,263,236,100,100,http://localhost:3001/character,284,0,0
+1717006943542,286,Створити героя ,200,OK,Endurance Test 1-45,text,true,,263,236,100,100,http://localhost:3001/character,286,0,0
+1717006943543,285,Створити героя ,200,OK,Endurance Test 1-60,text,true,,263,236,100,100,http://localhost:3001/character,285,0,0
+1717006943541,287,Створити героя ,200,OK,Endurance Test 1-66,text,true,,263,236,100,100,http://localhost:3001/character,287,0,0
+1717006943542,286,Створити героя ,200,OK,Endurance Test 1-12,text,true,,263,236,100,100,http://localhost:3001/character,286,0,0
+1717006943541,287,Створити героя ,200,OK,Endurance Test 1-68,text,true,,263,236,100,100,http://localhost:3001/character,287,0,0
+1717006943506,322,Створити героя ,200,OK,Endurance Test 1-7,text,true,,263,236,100,100,http://localhost:3001/character,322,0,0
+1717006943544,284,Створити героя ,200,OK,Endurance Test 1-11,text,true,,263,236,100,100,http://localhost:3001/character,284,0,0
+1717006943544,284,Створити героя ,200,OK,Endurance Test 1-5,text,true,,263,236,100,100,http://localhost:3001/character,284,0,0
+1717006943544,284,Створити героя ,200,OK,Endurance Test 1-48,text,true,,263,236,100,100,http://localhost:3001/character,284,0,0
+1717006943779,62,Створити героя ,200,OK,Endurance Test 1-40,text,true,,263,236,100,100,http://localhost:3001/character,62,0,0
+1717006943767,81,Створити героя ,200,OK,Endurance Test 1-31,text,true,,263,236,100,100,http://localhost:3001/character,81,0,0
+1717006943767,123,Створити героя ,200,OK,Endurance Test 1-83,text,true,,263,236,100,100,http://localhost:3001/character,122,0,0
+1717006943771,87,Створити героя ,200,OK,Endurance Test 1-71,text,true,,263,236,100,100,http://localhost:3001/character,85,0,0
+1717006943824,67,Створити героя ,200,OK,Endurance Test 1-15,text,true,,263,236,100,100,http://localhost:3001/character,66,0,0
+1717006943763,127,Створити героя ,200,OK,Endurance Test 1-35,text,true,,263,236,100,100,http://localhost:3001/character,127,0,0
+1717006943771,120,Створити героя ,200,OK,Endurance Test 1-57,text,true,,263,236,100,100,http://localhost:3001/character,120,0,0
+1717006943771,119,Створити героя ,200,OK,Endurance Test 1-87,text,true,,263,236,100,100,http://localhost:3001/character,119,0,0
+1717006943827,66,Створити героя ,200,OK,Endurance Test 1-97,text,true,,263,236,100,100,http://localhost:3001/character,66,0,0
+1717006943829,64,Створити героя ,200,OK,Endurance Test 1-62,text,true,,263,236,100,100,http://localhost:3001/character,64,0,0
+1717006943827,67,Створити героя ,200,OK,Endurance Test 1-6,text,true,,263,236,100,100,http://localhost:3001/character,67,0,0
+1717006943776,149,Створити героя ,200,OK,Endurance Test 1-100,text,true,,263,236,100,100,http://localhost:3001/character,149,0,0
+1717006943830,94,Створити героя ,200,OK,Endurance Test 1-72,text,true,,263,236,100,100,http://localhost:3001/character,94,0,0
+1717006943763,166,Створити героя ,200,OK,Endurance Test 1-24,text,true,,263,236,100,100,http://localhost:3001/character,166,0,0
+1717006943824,101,Створити героя ,200,OK,Endurance Test 1-16,text,true,,263,236,100,100,http://localhost:3001/character,101,0,0
+1717006943776,154,Створити героя ,200,OK,Endurance Test 1-96,text,true,,263,236,100,100,http://localhost:3001/character,154,0,0
+1717006943776,147,Створити героя ,200,OK,Endurance Test 1-91,text,true,,263,236,100,100,http://localhost:3001/character,147,0,0
+1717006943828,96,Створити героя ,200,OK,Endurance Test 1-89,text,true,,263,236,100,100,http://localhost:3001/character,96,0,0
+1717006943828,97,Створити героя ,200,OK,Endurance Test 1-52,text,true,,263,236,100,100,http://localhost:3001/character,97,0,0
+1717006943763,168,Створити героя ,200,OK,Endurance Test 1-59,text,true,,263,236,100,100,http://localhost:3001/character,168,0,0
+1717006943827,94,Створити героя ,200,OK,Endurance Test 1-33,text,true,,263,236,100,100,http://localhost:3001/character,94,0,0
+1717006943771,150,Створити героя ,200,OK,Endurance Test 1-84,text,true,,263,236,100,100,http://localhost:3001/character,150,0,0
+1717006943776,145,Створити героя ,200,OK,Endurance Test 1-65,text,true,,263,236,100,100,http://localhost:3001/character,145,0,0
+1717006943767,160,Створити героя ,200,OK,Endurance Test 1-74,text,true,,263,236,100,100,http://localhost:3001/character,159,0,0
+1717006943825,174,Створити героя ,200,OK,Endurance Test 1-3,text,true,,263,236,100,100,http://localhost:3001/character,172,0,0
+1717006943779,219,Створити героя ,200,OK,Endurance Test 1-4,text,true,,263,236,100,100,http://localhost:3001/character,218,0,0
+1717006943823,175,Створити героя ,200,OK,Endurance Test 1-64,text,true,,263,236,100,100,http://localhost:3001/character,174,0,0
+1717006943776,213,Створити героя ,200,OK,Endurance Test 1-23,text,true,,263,236,100,100,http://localhost:3001/character,213,0,0
+1717006943767,221,Створити героя ,200,OK,Endurance Test 1-86,text,true,,263,236,100,100,http://localhost:3001/character,221,0,0
+1717006943776,150,Створити героя ,200,OK,Endurance Test 1-55,text,true,,263,236,100,100,http://localhost:3001/character,150,0,0
+1717006943776,150,Створити героя ,200,OK,Endurance Test 1-61,text,true,,263,236,100,100,http://localhost:3001/character,150,0,0
+1717006943827,100,Створити героя ,200,OK,Endurance Test 1-10,text,true,,263,236,100,100,http://localhost:3001/character,100,0,0
+1717006943776,151,Створити героя ,200,OK,Endurance Test 1-21,text,true,,263,236,100,100,http://localhost:3001/character,151,0,0
+1717006943824,215,Створити героя ,200,OK,Endurance Test 1-41,text,true,,263,236,100,100,http://localhost:3001/character,188,0,0
+1717006943767,272,Створити героя ,200,OK,Endurance Test 1-75,text,true,,263,236,100,100,http://localhost:3001/character,245,0,0
+1717006943763,276,Створити героя ,200,OK,Endurance Test 1-82,text,true,,263,236,100,100,http://localhost:3001/character,252,0,0
+1717006943825,213,Створити героя ,200,OK,Endurance Test 1-19,text,true,,263,236,100,100,http://localhost:3001/character,185,0,0
+1717006943825,210,Створити героя ,200,OK,Endurance Test 1-43,text,true,,263,236,100,100,http://localhost:3001/character,185,0,0
+1717006943776,260,Створити героя ,200,OK,Endurance Test 1-32,text,true,,263,236,100,100,http://localhost:3001/character,234,0,0
+1717006943776,256,Створити героя ,200,OK,Endurance Test 1-8,text,true,,263,236,100,100,http://localhost:3001/character,233,0,0
+1717006943827,206,Створити героя ,200,OK,Endurance Test 1-29,text,true,,263,236,100,100,http://localhost:3001/character,190,0,0
+1717006943825,206,Створити героя ,200,OK,Endurance Test 1-63,text,true,,263,236,100,100,http://localhost:3001/character,184,0,0
+1717006943826,206,Створити героя ,200,OK,Endurance Test 1-79,text,true,,263,236,100,100,http://localhost:3001/character,187,0,0
+1717006943776,256,Створити героя ,200,OK,Endurance Test 1-80,text,true,,263,236,100,100,http://localhost:3001/character,232,0,0
+1717006943823,203,Створити героя ,200,OK,Endurance Test 1-44,text,true,,263,236,100,100,http://localhost:3001/character,185,0,0
+1717006943776,263,Створити героя ,200,OK,Endurance Test 1-20,text,true,,263,236,100,100,http://localhost:3001/character,237,0,0
+1717006943767,279,Створити героя ,200,OK,Endurance Test 1-37,text,true,,263,236,100,100,http://localhost:3001/character,246,0,0
+1717006943823,219,Створити героя ,200,OK,Endurance Test 1-70,text,true,,263,236,100,100,http://localhost:3001/character,190,0,0
+1717006943767,275,Створити героя ,200,OK,Endurance Test 1-25,text,true,,263,236,100,100,http://localhost:3001/character,246,0,0
+1717006943829,212,Створити героя ,200,OK,Endurance Test 1-9,text,true,,263,236,100,100,http://localhost:3001/character,183,0,0
+1717006943993,181,Змінити героя,200,OK,Endurance Test 1-98,text,true,,262,231,100,100,http://localhost:3001/character/4,181,0,0
+1717006944017,214,Змінити героя,200,OK,Endurance Test 1-99,text,true,,262,231,100,100,http://localhost:3001/character/4,214,0,0
+1717006944044,183,Змінити героя,200,OK,Endurance Test 1-78,text,true,,262,231,100,100,http://localhost:3001/character/4,183,0,0
+1717006944047,181,Змінити героя,200,OK,Endurance Test 1-34,text,true,,262,231,100,100,http://localhost:3001/character/4,180,0,0
+1717006944057,186,Змінити героя,200,OK,Endurance Test 1-2,text,true,,262,231,100,100,http://localhost:3001/character/4,186,0,0
+1717006943993,243,Змінити героя,200,OK,Endurance Test 1-85,text,true,,262,231,100,100,http://localhost:3001/character/4,243,0,0
+1717006944045,182,Змінити героя,200,OK,Endurance Test 1-28,text,true,,262,231,100,100,http://localhost:3001/character/4,182,0,0
+1717006943767,468,Створити героя ,200,OK,Endurance Test 1-42,text,true,,263,236,100,100,http://localhost:3001/character,468,0,0
+1717006943994,230,Створити героя ,200,OK,Endurance Test 1-13,text,true,,263,236,100,100,http://localhost:3001/character,230,0,0
+1717006943763,460,Створити героя ,200,OK,Endurance Test 1-53,text,true,,263,236,100,100,http://localhost:3001/character,460,0,0
+1717006944019,217,Змінити героя,200,OK,Endurance Test 1-54,text,true,,262,231,100,100,http://localhost:3001/character/4,217,0,0
+1717006944043,163,Змінити героя,200,OK,Endurance Test 1-90,text,true,,262,231,100,100,http://localhost:3001/character/4,134,0,0
+1717006944019,219,Змінити героя,200,OK,Endurance Test 1-81,text,true,,262,231,100,100,http://localhost:3001/character/4,219,0,0
+1717006943998,214,Змінити героя,200,OK,Endurance Test 1-18,text,true,,262,231,100,100,http://localhost:3001/character/4,175,0,0
+1717006943764,470,Створити героя ,200,OK,Endurance Test 1-36,text,true,,263,236,100,100,http://localhost:3001/character,470,0,0
+1717006943776,435,Створити героя ,200,OK,Endurance Test 1-1,text,true,,263,236,100,100,http://localhost:3001/character,435,0,0
+1717006944016,209,Змінити героя,200,OK,Endurance Test 1-47,text,true,,262,231,100,100,http://localhost:3001/character/4,209,0,0
+1717006943827,385,Створити героя ,200,OK,Endurance Test 1-27,text,true,,263,236,100,100,http://localhost:3001/character,385,0,0
+1717006944069,174,Змінити героя,200,OK,Endurance Test 1-44,text,true,,262,231,100,100,http://localhost:3001/character/4,174,0,0
+1717006944050,186,Змінити героя,200,OK,Endurance Test 1-24,text,true,,262,231,100,100,http://localhost:3001/character/4,182,0,0
+1717006944058,178,Змінити героя,200,OK,Endurance Test 1-66,text,true,,262,231,100,100,http://localhost:3001/character/4,178,0,0
+1717006944044,166,Змінити героя,200,OK,Endurance Test 1-56,text,true,,262,231,100,100,http://localhost:3001/character/4,166,0,0
+1717006944058,186,Змінити героя,200,OK,Endurance Test 1-84,text,true,,262,231,100,100,http://localhost:3001/character/4,186,0,0
+1717006944044,196,Змінити героя,200,OK,Endurance Test 1-40,text,true,,262,231,100,100,http://localhost:3001/character/4,195,0,0
+1717006944057,187,Змінити героя,200,OK,Endurance Test 1-71,text,true,,262,231,100,100,http://localhost:3001/character/4,187,0,0
+1717006943994,235,Змінити героя,200,OK,Endurance Test 1-59,text,true,,262,231,100,100,http://localhost:3001/character/4,235,0,0
+1717006944045,189,Змінити героя,200,OK,Endurance Test 1-96,text,true,,262,231,100,100,http://localhost:3001/character/4,189,0,0
+1717006944060,175,Змінити героя,200,OK,Endurance Test 1-65,text,true,,262,231,100,100,http://localhost:3001/character/4,175,0,0
+1717006944058,170,Змінити героя,200,OK,Endurance Test 1-6,text,true,,262,231,100,100,http://localhost:3001/character/4,170,0,0
+1717006944059,185,Змінити героя,200,OK,Endurance Test 1-15,text,true,,262,231,100,100,http://localhost:3001/character/4,185,0,0
+1717006944044,180,Змінити героя,200,OK,Endurance Test 1-95,text,true,,262,231,100,100,http://localhost:3001/character/4,180,0,0
+1717006944045,131,Змінити героя,200,OK,Endurance Test 1-60,text,true,,262,231,100,100,http://localhost:3001/character/4,130,0,0
+1717006943989,246,Змінити героя,200,OK,Endurance Test 1-91,text,true,,262,231,100,100,http://localhost:3001/character/4,246,0,0
+1717006944070,207,Змінити героя,200,OK,Endurance Test 1-63,text,true,,262,231,100,100,http://localhost:3001/character/4,207,0,0
+1717006944046,179,Змінити героя,200,OK,Endurance Test 1-58,text,true,,262,231,100,100,http://localhost:3001/character/4,179,0,0
+1717006944043,181,Змінити героя,200,OK,Endurance Test 1-51,text,true,,262,231,100,100,http://localhost:3001/character/4,180,0,0
+1717006944048,180,Змінити героя,200,OK,Endurance Test 1-62,text,true,,262,231,100,100,http://localhost:3001/character/4,180,0,0
+1717006944069,208,Змінити героя,200,OK,Endurance Test 1-29,text,true,,262,231,100,100,http://localhost:3001/character/4,208,0,0
+1717006944018,210,Змінити героя,200,OK,Endurance Test 1-30,text,true,,262,231,100,100,http://localhost:3001/character/4,210,0,0
+1717006943995,230,Змінити героя,200,OK,Endurance Test 1-7,text,true,,262,231,100,100,http://localhost:3001/character/4,230,0,0
+1717006944101,178,Змінити героя,200,OK,Endurance Test 1-75,text,true,,262,231,100,100,http://localhost:3001/character/4,178,0,0
+1717006944096,180,Змінити героя,200,OK,Endurance Test 1-86,text,true,,262,231,100,100,http://localhost:3001/character/4,180,0,0
+1717006944048,228,Змінити героя,200,OK,Endurance Test 1-93,text,true,,262,231,100,100,http://localhost:3001/character/4,228,0,0
+1717006943989,289,Змінити героя,200,OK,Endurance Test 1-89,text,true,,262,231,100,100,http://localhost:3001/character/4,287,0,0
+1717006943994,231,Змінити героя,200,OK,Endurance Test 1-5,text,true,,262,231,100,100,http://localhost:3001/character/4,231,0,0
+1717006944043,193,Змінити героя,200,OK,Endurance Test 1-74,text,true,,262,231,100,100,http://localhost:3001/character/4,185,0,0
+1717006944090,187,Змінити героя,200,OK,Endurance Test 1-9,text,true,,262,231,100,100,http://localhost:3001/character/4,187,0,0
+1717006944044,191,Змінити героя,200,OK,Endurance Test 1-57,text,true,,262,231,100,100,http://localhost:3001/character/4,191,0,0
+1717006944099,179,Змінити героя,200,OK,Endurance Test 1-41,text,true,,262,231,100,100,http://localhost:3001/character/4,179,0,0
+1717006944050,177,Змінити героя,200,OK,Endurance Test 1-87,text,true,,262,231,100,100,http://localhost:3001/character/4,177,0,0
+1717006944045,131,Змінити героя,200,OK,Endurance Test 1-22,text,true,,262,231,100,100,http://localhost:3001/character/4,131,0,0
+1717006944045,192,Змінити героя,200,OK,Endurance Test 1-76,text,true,,262,231,100,100,http://localhost:3001/character/4,192,0,0
+1717006944044,180,Змінити героя,200,OK,Endurance Test 1-31,text,true,,262,231,100,100,http://localhost:3001/character/4,180,0,0
+1717006944045,191,Змінити героя,200,OK,Endurance Test 1-11,text,true,,262,231,100,100,http://localhost:3001/character/4,191,0,0
+1717006944051,176,Змінити героя,200,OK,Endurance Test 1-68,text,true,,262,231,100,100,http://localhost:3001/character/4,176,0,0
+1717006944050,175,Змінити героя,200,OK,Endurance Test 1-33,text,true,,262,231,100,100,http://localhost:3001/character/4,175,0,0
+1717006943767,444,Створити героя ,200,OK,Endurance Test 1-67,text,true,,263,236,100,100,http://localhost:3001/character,444,0,0
+1717006944044,191,Створити героя ,200,OK,Endurance Test 1-69,text,true,,263,236,100,100,http://localhost:3001/character,191,0,0
+1717006944017,218,Змінити героя,200,OK,Endurance Test 1-52,text,true,,262,231,100,100,http://localhost:3001/character/4,218,0,0
+1717006944057,181,Змінити героя,200,OK,Endurance Test 1-12,text,true,,262,231,100,100,http://localhost:3001/character/4,181,0,0
+1717006944043,192,Змінити героя,200,OK,Endurance Test 1-17,text,true,,262,231,100,100,http://localhost:3001/character/4,192,0,0
+1717006944044,184,Змінити героя,200,OK,Endurance Test 1-46,text,true,,262,231,100,100,http://localhost:3001/character/4,184,0,0
+1717006944045,166,Змінити героя,200,OK,Endurance Test 1-35,text,true,,262,231,100,100,http://localhost:3001/character/4,166,0,0
+1717006944090,218,Змінити героя,200,OK,Endurance Test 1-39,text,true,,262,231,100,100,http://localhost:3001/character/4,218,0,0
+1717006944090,229,Змінити героя,200,OK,Endurance Test 1-37,text,true,,262,231,100,100,http://localhost:3001/character/4,229,0,0
+1717006944059,258,Змінити героя,200,OK,Endurance Test 1-49,text,true,,262,231,100,100,http://localhost:3001/character/4,258,0,0
+1717006944045,263,Змінити героя,200,OK,Endurance Test 1-83,text,true,,262,231,100,100,http://localhost:3001/character/4,263,0,0
+1717006944047,177,Змінити героя,200,OK,Endurance Test 1-77,text,true,,262,231,100,100,http://localhost:3001/character/4,177,0,0
+1717006944019,296,Змінити героя,200,OK,Endurance Test 1-100,text,true,,262,231,100,100,http://localhost:3001/character/4,296,0,0
+1717006943767,456,Створити героя ,200,OK,Endurance Test 1-26,text,true,,263,236,100,100,http://localhost:3001/character,456,0,0
+1717006944044,180,Створити героя ,200,OK,Endurance Test 1-73,text,true,,263,236,100,100,http://localhost:3001/character,180,0,0
+1717006944088,227,Змінити героя,200,OK,Endurance Test 1-80,text,true,,262,231,100,100,http://localhost:3001/character/4,227,0,0
+1717006943829,486,Створити героя ,200,OK,Endurance Test 1-94,text,true,,263,236,100,100,http://localhost:3001/character,486,0,0
+1717006944087,215,Змінити героя,200,OK,Endurance Test 1-43,text,true,,262,231,100,100,http://localhost:3001/character/4,215,0,0
+1717006944071,237,Змінити героя,200,OK,Endurance Test 1-25,text,true,,262,231,100,100,http://localhost:3001/character/4,237,0,0
+1717006944060,248,Змінити героя,200,OK,Endurance Test 1-45,text,true,,262,231,100,100,http://localhost:3001/character/4,248,0,0
+1717006944098,195,Змінити героя,200,OK,Endurance Test 1-61,text,true,,262,231,100,100,http://localhost:3001/character/4,195,0,0
+1717006944069,248,Змінити героя,200,OK,Endurance Test 1-64,text,true,,262,231,100,100,http://localhost:3001/character/4,248,0,0
+1717006944071,245,Змінити героя,200,OK,Endurance Test 1-70,text,true,,262,231,100,100,http://localhost:3001/character/4,245,0,0
+1717006944071,244,Змінити героя,200,OK,Endurance Test 1-32,text,true,,262,231,100,100,http://localhost:3001/character/4,244,0,0
+1717006944100,205,Змінити героя,200,OK,Endurance Test 1-23,text,true,,262,231,100,100,http://localhost:3001/character/4,205,0,0
+1717006944016,299,Змінити героя,200,OK,Endurance Test 1-50,text,true,,262,231,100,100,http://localhost:3001/character/4,299,0,0
+1717006944090,225,Змінити героя,200,OK,Endurance Test 1-4,text,true,,262,231,100,100,http://localhost:3001/character/4,225,0,0
+1717006943994,231,Змінити героя,200,OK,Endurance Test 1-92,text,true,,262,231,100,100,http://localhost:3001/character/4,231,0,0
+1717006944101,217,Змінити героя,200,OK,Endurance Test 1-10,text,true,,262,231,100,100,http://localhost:3001/character/4,217,0,0
+1717006944084,229,Змінити героя,200,OK,Endurance Test 1-79,text,true,,262,231,100,100,http://localhost:3001/character/4,229,0,0
+1717006944044,269,Змінити героя,200,OK,Endurance Test 1-97,text,true,,262,231,100,100,http://localhost:3001/character/4,269,0,0
+1717006944058,252,Змінити героя,200,OK,Endurance Test 1-72,text,true,,262,231,100,100,http://localhost:3001/character/4,252,0,0
+1717006944087,228,Змінити героя,200,OK,Endurance Test 1-19,text,true,,262,231,100,100,http://localhost:3001/character/4,228,0,0
+1717006944098,204,Змінити героя,200,OK,Endurance Test 1-55,text,true,,262,231,100,100,http://localhost:3001/character/4,204,0,0
+1717006944070,248,Змінити героя,200,OK,Endurance Test 1-8,text,true,,262,231,100,100,http://localhost:3001/character/4,247,0,0
+1717006944087,230,Змінити героя,200,OK,Endurance Test 1-82,text,true,,262,231,100,100,http://localhost:3001/character/4,230,0,0
+1717006944090,217,Змінити героя,200,OK,Endurance Test 1-20,text,true,,262,231,100,100,http://localhost:3001/character/4,217,0,0
+1717006944058,261,Змінити героя,200,OK,Endurance Test 1-16,text,true,,262,231,100,100,http://localhost:3001/character/4,261,0,0
+1717006944048,252,Змінити героя,200,OK,Endurance Test 1-38,text,true,,262,231,100,100,http://localhost:3001/character/4,252,0,0
+1717006944098,219,Змінити героя,200,OK,Endurance Test 1-21,text,true,,262,231,100,100,http://localhost:3001/character/4,219,0,0
+1717006943823,494,Створити героя ,200,OK,Endurance Test 1-88,text,true,,263,236,100,100,http://localhost:3001/character,494,0,0
+1717006944048,246,Змінити героя,200,OK,Endurance Test 1-14,text,true,,262,231,100,100,http://localhost:3001/character/4,245,0,0
+1717006944087,210,Змінити героя,200,OK,Endurance Test 1-3,text,true,,262,231,100,100,http://localhost:3001/character/4,210,0,0
+1717006944043,259,Змінити героя,200,OK,Endurance Test 1-48,text,true,,262,231,100,100,http://localhost:3001/character/4,259,0,0
+1717006944501,599,Видалити героя,200,OK,Endurance Test 1-62,text,true,,249,216,100,100,http://localhost:3001/character/4,565,0,0
+1717006944500,555,Видалити героя,200,OK,Endurance Test 1-51,text,true,,249,216,100,100,http://localhost:3001/character/4,555,0,0
+1717006944488,607,Змінити героя,200,OK,Endurance Test 1-1,text,true,,262,231,100,100,http://localhost:3001/character/4,588,0,0
+1717006944492,562,Видалити героя,200,OK,Endurance Test 1-59,text,true,,249,216,100,100,http://localhost:3001/character/4,562,0,0
+1717006944531,566,Видалити героя,200,OK,Endurance Test 1-33,text,true,,249,216,100,100,http://localhost:3001/character/4,536,0,0
+1717006944523,567,Видалити героя,200,OK,Endurance Test 1-48,text,true,,249,216,100,100,http://localhost:3001/character/4,545,0,0
+1717006944498,597,Видалити героя,200,OK,Endurance Test 1-63,text,true,,249,216,100,100,http://localhost:3001/character/4,571,0,0
+1717006944490,563,Видалити героя,200,OK,Endurance Test 1-84,text,true,,249,216,100,100,http://localhost:3001/character/4,563,0,0
+1717006944491,563,Видалити героя,200,OK,Endurance Test 1-99,text,true,,249,216,100,100,http://localhost:3001/character/4,563,0,0
+1717006944488,571,Змінити героя,200,OK,Endurance Test 1-27,text,true,,262,231,100,100,http://localhost:3001/character/4,571,0,0
+1717006944496,600,Видалити героя,200,OK,Endurance Test 1-65,text,true,,249,216,100,100,http://localhost:3001/character/4,574,0,0
+1717006944492,563,Видалити героя,200,OK,Endurance Test 1-29,text,true,,249,216,100,100,http://localhost:3001/character/4,563,0,0
+1717006944491,567,Видалити героя,200,OK,Endurance Test 1-75,text,true,,249,216,100,100,http://localhost:3001/character/4,567,0,0
+1717006944496,603,Видалити героя,200,OK,Endurance Test 1-90,text,true,,249,216,100,100,http://localhost:3001/character/4,574,0,0
+1717006944491,604,Видалити героя,200,OK,Endurance Test 1-71,text,true,,249,216,100,100,http://localhost:3001/character/4,585,0,0
+1717006944524,567,Видалити героя,200,OK,Endurance Test 1-8,text,true,,249,216,100,100,http://localhost:3001/character/4,543,0,0
+1717006944532,562,Видалити героя,200,OK,Endurance Test 1-23,text,true,,249,216,100,100,http://localhost:3001/character/4,544,0,0
+1717006944500,592,Видалити героя,200,OK,Endurance Test 1-28,text,true,,249,216,100,100,http://localhost:3001/character/4,573,0,0
+1717006944531,530,Видалити героя,200,OK,Endurance Test 1-43,text,true,,249,216,100,100,http://localhost:3001/character/4,530,0,0
+1717006944520,543,Видалити героя,200,OK,Endurance Test 1-11,text,true,,249,216,100,100,http://localhost:3001/character/4,542,0,0
+1717006944491,598,Видалити героя,200,OK,Endurance Test 1-9,text,true,,249,216,100,100,http://localhost:3001/character/4,577,0,0
+1717006944491,562,Видалити героя,200,OK,Endurance Test 1-89,text,true,,249,216,100,100,http://localhost:3001/character/4,562,0,0
+1717006944508,584,Видалити героя,200,OK,Endurance Test 1-12,text,true,,249,216,100,100,http://localhost:3001/character/4,567,0,0
+1717006944497,602,Видалити героя,200,OK,Endurance Test 1-6,text,true,,249,216,100,100,http://localhost:3001/character/4,571,0,0
+1717006944525,536,Видалити героя,200,OK,Endurance Test 1-19,text,true,,249,216,100,100,http://localhost:3001/character/4,536,0,0
+1717006944500,557,Видалити героя,200,OK,Endurance Test 1-24,text,true,,249,216,100,100,http://localhost:3001/character/4,557,0,0
+1717006944546,513,Видалити героя,200,OK,Endurance Test 1-38,text,true,,249,216,100,100,http://localhost:3001/character/4,513,0,0
+1717006944525,532,Видалити героя,200,OK,Endurance Test 1-79,text,true,,249,216,100,100,http://localhost:3001/character/4,532,0,0
+1717006944530,565,Видалити героя,200,OK,Endurance Test 1-32,text,true,,249,216,100,100,http://localhost:3001/character/4,543,0,0
+1717006944491,603,Видалити героя,200,OK,Endurance Test 1-44,text,true,,249,216,100,100,http://localhost:3001/character/4,582,0,0
+1717006944529,531,Видалити героя,200,OK,Endurance Test 1-50,text,true,,249,216,100,100,http://localhost:3001/character/4,531,0,0
+1717006944500,557,Видалити героя,200,OK,Endurance Test 1-66,text,true,,249,216,100,100,http://localhost:3001/character/4,557,0,0
+1717006944494,603,Видалити героя,200,OK,Endurance Test 1-86,text,true,,249,216,100,100,http://localhost:3001/character/4,573,0,0
+1717006944507,547,Видалити героя,200,OK,Endurance Test 1-83,text,true,,249,216,100,100,http://localhost:3001/character/4,546,0,0
+1717006944523,566,Видалити героя,200,OK,Endurance Test 1-3,text,true,,249,216,100,100,http://localhost:3001/character/4,551,0,0
+1717006944498,596,Видалити героя,200,OK,Endurance Test 1-58,text,true,,249,216,100,100,http://localhost:3001/character/4,574,0,0
+1717006944492,562,Видалити героя,200,OK,Endurance Test 1-91,text,true,,249,216,100,100,http://localhost:3001/character/4,562,0,0
+1717006944518,574,Видалити героя,200,OK,Endurance Test 1-49,text,true,,249,216,100,100,http://localhost:3001/character/4,550,0,0
+1717006944492,603,Змінити героя,200,OK,Endurance Test 1-69,text,true,,262,231,100,100,http://localhost:3001/character/4,574,0,0
+1717006944495,564,Видалити героя,200,OK,Endurance Test 1-7,text,true,,249,216,100,100,http://localhost:3001/character/4,564,0,0
+1717006944495,604,Видалити героя,200,OK,Endurance Test 1-56,text,true,,249,216,100,100,http://localhost:3001/character/4,583,0,0
+1717006944491,572,Видалити героя,200,OK,Endurance Test 1-93,text,true,,249,216,100,100,http://localhost:3001/character/4,571,0,0
+1717006944488,608,Змінити героя,200,OK,Endurance Test 1-36,text,true,,262,231,100,100,http://localhost:3001/character/4,580,0,0
+1717006944491,609,Видалити героя,200,OK,Endurance Test 1-15,text,true,,249,216,100,100,http://localhost:3001/character/4,577,0,0
+1717006944530,565,Видалити героя,200,OK,Endurance Test 1-46,text,true,,249,216,100,100,http://localhost:3001/character/4,545,0,0
+1717006944527,567,Змінити героя,200,OK,Endurance Test 1-94,text,true,,262,231,100,100,http://localhost:3001/character/4,547,0,0
+1717006944508,583,Видалити героя,200,OK,Endurance Test 1-35,text,true,,249,216,100,100,http://localhost:3001/character/4,557,0,0
+1717006944516,542,Видалити героя,200,OK,Endurance Test 1-97,text,true,,249,216,100,100,http://localhost:3001/character/4,542,0,0
+1717006944493,599,Видалити героя,200,OK,Endurance Test 1-47,text,true,,249,216,100,100,http://localhost:3001/character/4,572,0,0
+1717006944492,600,Видалити героя,200,OK,Endurance Test 1-54,text,true,,249,216,100,100,http://localhost:3001/character/4,584,0,0
+1717006944519,538,Видалити героя,200,OK,Endurance Test 1-31,text,true,,249,216,100,100,http://localhost:3001/character/4,538,0,0
+1717006944492,569,Видалити героя,200,OK,Endurance Test 1-98,text,true,,249,216,100,100,http://localhost:3001/character/4,569,0,0
+1717006944520,577,Видалити героя,200,OK,Endurance Test 1-22,text,true,,249,216,100,100,http://localhost:3001/character/4,552,0,0
+1717006944531,568,Видалити героя,200,OK,Endurance Test 1-45,text,true,,249,216,100,100,http://localhost:3001/character/4,533,0,0
+1717006944529,532,Видалити героя,200,OK,Endurance Test 1-82,text,true,,249,216,100,100,http://localhost:3001/character/4,532,0,0
+1717006944530,528,Видалити героя,200,OK,Endurance Test 1-77,text,true,,249,216,100,100,http://localhost:3001/character/4,528,0,0
+1717006944497,594,Видалити героя,200,OK,Endurance Test 1-41,text,true,,249,216,100,100,http://localhost:3001/character/4,578,0,0
+1717006944523,576,Видалити героя,200,OK,Endurance Test 1-20,text,true,,249,216,100,100,http://localhost:3001/character/4,553,0,0
+1717006944497,593,Видалити героя,200,OK,Endurance Test 1-60,text,true,,249,216,100,100,http://localhost:3001/character/4,573,0,0
+1717006944509,587,Видалити героя,200,OK,Endurance Test 1-37,text,true,,249,216,100,100,http://localhost:3001/character/4,553,0,0
+1717006944508,589,Видалити героя,200,OK,Endurance Test 1-100,text,true,,249,216,100,100,http://localhost:3001/character/4,558,0,0
+1717006944497,600,Видалити героя,200,OK,Endurance Test 1-74,text,true,,249,216,100,100,http://localhost:3001/character/4,568,0,0
+1717006944507,588,Видалити героя,200,OK,Endurance Test 1-68,text,true,,249,216,100,100,http://localhost:3001/character/4,566,0,0
+1717006944543,553,Змінити героя,200,OK,Endurance Test 1-88,text,true,,262,231,100,100,http://localhost:3001/character/4,526,0,0
+1717006944529,562,Видалити героя,200,OK,Endurance Test 1-72,text,true,,249,216,100,100,http://localhost:3001/character/4,535,0,0
+1717006944486,570,Змінити героя,200,OK,Endurance Test 1-42,text,true,,262,231,100,100,http://localhost:3001/character/4,570,0,0
+1717006944547,549,Видалити героя,200,OK,Endurance Test 1-21,text,true,,249,216,100,100,http://localhost:3001/character/4,528,0,0
+1717006944497,563,Видалити героя,200,OK,Endurance Test 1-30,text,true,,249,216,100,100,http://localhost:3001/character/4,563,0,0
+1717006944492,562,Видалити героя,200,OK,Endurance Test 1-2,text,true,,249,216,100,100,http://localhost:3001/character/4,561,0,0
+1717006944478,690,Змінити героя,200,OK,Endurance Test 1-67,text,true,,262,231,100,100,http://localhost:3001/character/4,690,0,0
+1717006944507,546,Видалити героя,200,OK,Endurance Test 1-17,text,true,,249,216,100,100,http://localhost:3001/character/4,546,0,0
+1717006944491,565,Видалити героя,200,OK,Endurance Test 1-40,text,true,,249,216,100,100,http://localhost:3001/character/4,565,0,0
+1717006944513,582,Змінити героя,200,OK,Endurance Test 1-26,text,true,,262,231,100,100,http://localhost:3001/character/4,558,0,0
+1717006944509,544,Видалити героя,200,OK,Endurance Test 1-39,text,true,,249,216,100,100,http://localhost:3001/character/4,544,0,0
+1717006944496,664,Видалити героя,200,OK,Endurance Test 1-57,text,true,,249,216,100,100,http://localhost:3001/character/4,663,0,0
+1717006944492,676,Видалити героя,200,OK,Endurance Test 1-18,text,true,,249,216,100,100,http://localhost:3001/character/4,676,0,0
+1717006944496,557,Видалити героя,200,OK,Endurance Test 1-34,text,true,,249,216,100,100,http://localhost:3001/character/4,557,0,0
+1717006944519,577,Видалити героя,200,OK,Endurance Test 1-64,text,true,,249,216,100,100,http://localhost:3001/character/4,554,0,0
+1717006944532,568,Змінити героя,200,OK,Endurance Test 1-73,text,true,,262,231,100,100,http://localhost:3001/character/4,536,0,0
+1717006944499,595,Видалити героя,200,OK,Endurance Test 1-81,text,true,,249,216,100,100,http://localhost:3001/character/4,569,0,0
+1717006944489,574,Змінити героя,200,OK,Endurance Test 1-53,text,true,,262,231,100,100,http://localhost:3001/character/4,573,0,0
+1717006944526,527,Видалити героя,200,OK,Endurance Test 1-87,text,true,,249,216,100,100,http://localhost:3001/character/4,527,0,0
+1717006944487,681,Змінити героя,200,OK,Endurance Test 1-13,text,true,,262,231,100,100,http://localhost:3001/character/4,681,0,0
+1717006944492,603,Видалити героя,200,OK,Endurance Test 1-95,text,true,,249,216,100,100,http://localhost:3001/character/4,575,0,0
+1717006944507,584,Видалити героя,200,OK,Endurance Test 1-25,text,true,,249,216,100,100,http://localhost:3001/character/4,565,0,0
+1717006944491,606,Видалити героя,200,OK,Endurance Test 1-96,text,true,,249,216,100,100,http://localhost:3001/character/4,575,0,0
+1717006944525,573,Видалити героя,200,OK,Endurance Test 1-55,text,true,,249,216,100,100,http://localhost:3001/character/4,538,0,0
+1717006944508,660,Видалити героя,200,OK,Endurance Test 1-52,text,true,,249,216,100,100,http://localhost:3001/character/4,660,0,0
+1717006944508,588,Видалити героя,200,OK,Endurance Test 1-80,text,true,,249,216,100,100,http://localhost:3001/character/4,563,0,0
+1717006944529,562,Видалити героя,200,OK,Endurance Test 1-10,text,true,,249,216,100,100,http://localhost:3001/character/4,541,0,0
+1717006944526,564,Видалити героя,200,OK,Endurance Test 1-92,text,true,,249,216,100,100,http://localhost:3001/character/4,549,0,0
+1717006944547,553,Видалити героя,200,OK,Endurance Test 1-16,text,true,,249,216,100,100,http://localhost:3001/character/4,524,0,0
+1717006944499,562,Видалити героя,200,OK,Endurance Test 1-78,text,true,,249,216,100,100,http://localhost:3001/character/4,562,0,0
+1717006944529,567,Видалити героя,200,OK,Endurance Test 1-70,text,true,,249,216,100,100,http://localhost:3001/character/4,540,0,0
+1717006945244,220,Видалити героя,200,OK,Endurance Test 1-94,text,true,,249,216,26,26,http://localhost:3001/character/4,220,0,0
+1717006944547,510,Видалити героя,200,OK,Endurance Test 1-14,text,true,,249,216,100,100,http://localhost:3001/character/4,510,0,0
+1717006945244,220,Видалити героя,200,OK,Endurance Test 1-27,text,true,,249,216,25,25,http://localhost:3001/character/4,220,0,0
+1717006944498,563,Видалити героя,200,OK,Endurance Test 1-5,text,true,,249,216,100,100,http://localhost:3001/character/4,563,0,0
+1717006945245,219,Видалити героя,200,OK,Endurance Test 1-69,text,true,,249,216,25,25,http://localhost:3001/character/4,219,0,0
+1717006944529,562,Видалити героя,200,OK,Endurance Test 1-4,text,true,,249,216,100,100,http://localhost:3001/character/4,540,0,0
+1717006944494,600,Видалити героя,200,OK,Endurance Test 1-85,text,true,,249,216,100,100,http://localhost:3001/character/4,581,0,0
+1717006944531,529,Видалити героя,200,OK,Endurance Test 1-61,text,true,,249,216,100,100,http://localhost:3001/character/4,529,0,0
+1717006944526,569,Видалити героя,200,OK,Endurance Test 1-76,text,true,,249,216,100,100,http://localhost:3001/character/4,549,0,0
+1717006945465,9,Видалити героя,200,OK,Endurance Test 1-13,text,true,,249,216,9,9,http://localhost:3001/character/4,9,0,0
+1717006945470,5,Видалити героя,200,OK,Endurance Test 1-73,text,true,,249,216,9,9,http://localhost:3001/character/4,5,0,0
+1717006945205,271,Видалити героя,200,OK,Endurance Test 1-1,text,true,,249,216,9,9,http://localhost:3001/character/4,271,0,0
+1717006945455,19,Видалити героя,200,OK,Endurance Test 1-42,text,true,,249,216,9,9,http://localhost:3001/character/4,19,0,0
+1717006945458,16,Видалити героя,200,OK,Endurance Test 1-67,text,true,,249,216,9,9,http://localhost:3001/character/4,16,0,0
+1717006945455,19,Видалити героя,200,OK,Endurance Test 1-88,text,true,,249,216,9,9,http://localhost:3001/character/4,19,0,0
+1717006945248,226,Видалити героя,200,OK,Endurance Test 1-36,text,true,,249,216,3,3,http://localhost:3001/character/4,226,0,0
+1717006945465,10,Видалити героя,200,OK,Endurance Test 1-53,text,true,,249,216,3,3,http://localhost:3001/character/4,10,0,0
+1717006945460,14,Видалити героя,200,OK,Endurance Test 1-26,text,true,,249,216,3,3,http://localhost:3001/character/4,13,0,0
